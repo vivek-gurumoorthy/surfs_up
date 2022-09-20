@@ -9,4 +9,5 @@ Main differences in extracted weather measurements between June and December:
 
 ## Summary
 In summary, the weather in this particular location in December compared to in June appears colder, more volatile, and not very promising for the business of a potential surf shop. A couple queries could potentially inform the understanding of year-round weather conditions.
-1. 
+1. A query could be performed to get the precipitation data from both December and June and a DataFrame could be similarly generated and its summary statistics extracted. This would enable the potential shop owners to understand how much it rains on average in each of those months, as precipitation would undoubtedly affect business. 
+2. Within the months of June and December respectively, a histogram could be plotted for both months with recorded temperatures and their associated frequencies. This would give additional context as to how often the weather is typically pleasant enough for activities such as surfing. 
